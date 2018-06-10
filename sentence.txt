@@ -1,0 +1,40 @@
+{"sentence": "要是爱你爱的少些，话就可以说的多些了。", "loved": "喜欢(3732)", "comment": "评论(21)"}
+{"sentence": "傲慢让别人无法来爱我，偏见让我无法去爱别人。", "loved": "喜欢(3241)", "comment": "评论(11)"}
+{"sentence": "要是他没有触犯我的骄傲，我也很容易原谅他的骄傲。", "loved": "喜欢(2437)", "comment": "评论(8)"}
+{"sentence": "幸福一经拒绝，就不值得我们再加重视。", "loved": "喜欢(2188)", "comment": "评论(10)"}
+{"sentence": "有心事应该等到单独一个人的时候再去想。", "loved": "喜欢(1782)", "comment": "评论(7)"}
+{"sentence": "人生在世，要不是让人家开开玩笑，回头来又取笑取笑别人，那还有什么意思？", "loved": "喜欢(1740)", "comment": "评论(11)"}
+{"sentence": "不过天下事总是这样的。你嘴上不诉苦，就没有人可怜你。", "loved": "喜欢(1721)", "comment": "评论(19)"}
+{"sentence": "一个人不要起脸来可真是漫无止境。", "loved": "喜欢(1632)", "comment": "评论(8)"}
+{"sentence": "将感情埋藏得太深有时是件坏事。如果一个女人掩饰了对自己所爱的男子的感情，她也许就失去了得到他的机会。", "loved": "喜欢(1611)", "comment": "评论(22)"}
+{"sentence": "骄傲多半不外乎我们对我们自己的估价，虚荣却牵涉到我们希望别人对我们的看法。", "loved": "喜欢(1584)", "comment": "评论(1)"}
+{"sentence": "我也说不准究竟是在什么时间，在什么地点，\r", "loved": "喜欢(1211)", "comment": "评论(7)"}
+{"sentence": "对不要脸的人，决不能低估了其不要脸的程度", "loved": "喜欢(1119)", "comment": "评论(3)"}
+{"sentence": "假装谦虚是最虚伪的表现，因为这可能是信口雌黄的开始，又或者是拐弯抹角的自我夸奖。", "loved": "喜欢(955)", "comment": "评论"}
+{"sentence": "I was in the middle before I knew that I had begun.\r", "loved": "喜欢(950)", "comment": "评论(6)"}
+{"sentence": "急躁的结果只会使得应该要做好的事情没有做好。", "loved": "喜欢(713)", "comment": "评论(2)"}
+{"sentence": "偏见让你无法接受我，傲慢让我无法爱上你", "loved": "喜欢(653)", "comment": "评论(5)"}
+{"sentence": "虚荣和骄傲是大不相同的两码事——尽管这两个词总是被混为一谈。一个人可以骄傲但不可以虚荣。骄傲多数情况下，无非是我们对自己的看法，但虚荣却指的是我们过于看重其他人对我们的评价。", "loved": "喜欢(639)", "comment": "评论(4)"}
+{"sentence": "根据我的书本知识，我坚信傲慢是一种流弊，人性在这一方面极为脆弱，因为我们很少有人不因为自己的某种品质或者其它什么而沾沾自喜、洋洋自得，不管这种品质是存在于真实中，还是仅仅存在于想象中。虚荣和傲慢尽管常被用作同义词，实际上却是两回事。一个人可能傲慢但不虚荣，傲慢是我们对自己的评价，虚荣则是我们希望别人如何评价我们自己。”", "loved": "喜欢(607)", "comment": "评论(5)"}
+{"sentence": "如果智慧真的高人一等,傲慢也就不会太过分。", "loved": "喜欢(549)", "comment": "评论(4)"}
+{"sentence": "如果不是你戳穿了我的虚荣心，我也许会原谅你的傲自尊大。", "loved": "喜欢(494)", "comment": "评论"}
+{"sentence": "女人们往往会把爱情这种东西幻想地太不切合实际。", "loved": "喜欢(490)", "comment": "评论(7)"}
+{"sentence": "连年怨阔别，一朝喜相逢。", "loved": "喜欢(464)", "comment": "评论"}
+{"sentence": "太受人器重有时候需要付出很大的代价。", "loved": "喜欢(399)", "comment": "评论"}
+{"sentence": "大凡女人家一经失去贞操，便无可挽救，这真是一失足成千古恨。美貌固然难于永保，名誉亦何尝保全。世间多得是轻薄男子，岂可不寸步留神。", "loved": "喜欢(385)", "comment": "评论(8)"}
+{"sentence": "尽管结婚并不一定会叫人幸福，但总算给她自己安排了一个最可靠的储藏室.", "loved": "喜欢(370)", "comment": "评论(3)"}
+{"sentence": "My affections and wishes have not changed.But one word from you will silence me for ever.If, however,your feelings have changed.", "loved": "喜欢(367)", "comment": "评论(9)"}
+{"sentence": "pride relates more to our opinion of ourselves, vanity to what we would have others think of us.\r", "loved": "喜欢(363)", "comment": "评论(1)"}
+{"sentence": "婚姻生活是否能幸福，完全是个机会问题。一对爱人婚前脾气摸得非常透，或者脾气非常相同，这并不能保证他们俩就会幸福。他们总是弄到后来距离越来越远，彼此烦恼。你既然得和这个人过一辈子，你最好尽量少了解他的缺点。", "loved": "喜欢(363)", "comment": "评论(4)"}
+{"sentence": "I love you, most ardently.", "loved": "喜欢(361)", "comment": "评论(2)"}
+{"sentence": "女人必须找一个自己尊敬的人做丈夫，这样她才能获得幸福。", "loved": "喜欢(345)", "comment": "评论(3)"}
+{"sentence": "并不是我们所有的人都会拥有浪漫。\r", "loved": "喜欢(330)", "comment": "评论"}
+{"sentence": "Misery can be caused by someone being just weak and indecisive.\r", "loved": "喜欢(325)", "comment": "评论"}
+{"sentence": "从不改变主意的人要特别注意，一开始就要拿对主意。", "loved": "喜欢(299)", "comment": "评论"}
+{"sentence": "Bagger can't be a chooser.乞丐没有权利挑三拣四。", "loved": "喜欢(293)", "comment": "评论(3)"}
+{"sentence": "大凡家境不好而又受过相当教育的青年女子，总是把结婚当作仅有的一条体面的退路. 尽管结婚并不一定会叫人幸福，但总算给她自己安排了一个最可靠的储藏室，日后可以不致挨冻受饿。", "loved": "喜欢(293)", "comment": "评论(6)"}
+{"sentence": "跟人家怨恨不解，的确是性格上的一个阴影。", "loved": "喜欢(285)", "comment": "评论(2)"}
+{"sentence": "男女恋爱大都免不了要借重于双方的感恩图报之心和虚荣自负之感，听其自然是很难成其好事的。", "loved": "喜欢(281)", "comment": "评论"}
+{"sentence": "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?\r", "loved": "喜欢(273)", "comment": "评论"}
+{"sentence": "对这个世界了解得越多，我就越不满。", "loved": "喜欢(269)", "comment": "评论"}
+{"sentence": "我一直在跟自己斗争，可是失败了，今后或许仍然会失败，我再也无法控制自己的感情了。请你务必允许我告诉你，我对你的仰慕和爱恋是多么的狂热。", "loved": "喜欢(266)", "comment": "评论(2)"}

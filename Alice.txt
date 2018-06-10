@@ -1,0 +1,40 @@
+{"sentence": "也许在你的生命里最初没有我的位置，在你悄然发觉的那一刻。", "loved": "喜欢", "comment": "评论"}
+{"sentence": "恐怕是如此 你发疯、发狂、失去理智了，但我要告诉你一个秘密 所有最优秀的人都这样。那只是个梦，爱丽丝 没有任何东西会伤害你，但如果你太害怕，你只要醒来就没事了，像这样……", "loved": "喜欢(191)", "comment": "评论"}
+{"sentence": "'Would you tell me, please, which way I ought to go from here?' \r'That depends a good deal on where you want to get to,' said the Cat. \r'I don't much care where...' said Alice. \r'Then it doesn't matter which way you go,' said the Cat.\r「我应该走哪一条路？」\r「你想到哪里去？」 \r「我不知道。」 \r「那你怎么走都是一样。」", "loved": "喜欢(197)", "comment": "评论"}
+{"sentence": "实现“不可能”唯一的方法就是相信它是可能的。", "loved": "喜欢(226)", "comment": "评论(1)"}
+{"sentence": "人们总以为时间是一个小偷，偷走了我们所爱的一切。但，时间是先给予再拿走，每天都是一份礼物，每小时，每一分，每一秒。", "loved": "喜欢(240)", "comment": "评论(1)"}
+{"sentence": "White Queen: Alice, you cannot live your life to please others. The choice must be yours, because when you step out to face that creature, you will step out alone.\r「爱丽丝，你活著不是为了取悦别人；选择，掌握在自己手中，因为当你走出来面对那些怪兽，你就得战斗。」", "loved": "喜欢(254)", "comment": "评论(1)"}
+{"sentence": "“如果你走错了路”\r               “我会开出一条路来”", "loved": "喜欢(330)", "comment": "评论(3)"}
+{"sentence": "你知道为什么乌鸦长得像写字台吗？\r因为我喜欢你啊", "loved": "喜欢(335)", "comment": "评论(4)"}
+{"sentence": "有一天爱丽丝走到岔路口，见到一只柴郡猫坐在树上。“我该走那条路？“她问。“你要走哪条路？”柴郡猫反问。“我不知道”爱丽丝答道。“那么，”猫说：“这个问题不重要。", "loved": "喜欢(337)", "comment": "评论"}
+{"sentence": "It's no use going back to yesterday, because I was a different person then.\r回到昨天毫无用处，因为过去的我和今天有所不同。", "loved": "喜欢(385)", "comment": "评论(2)"}
+{"sentence": "爱丽丝，乌鸦为什么像写字台？\r我每天活在没有你的下午茶时间里问自己，为什么乌鸦会像写字台\r其实没有理由啊，这个问题的答案就像我爱你一样\r难过的是，我的柔肠百结在你看来，都只是一场梦", "loved": "喜欢", "comment": "评论"}
+{"sentence": "夕阳映照着晚霞，小船儿似梦地荡漾着前进。三个孩子偎倚在一起，热切地眼睛，期待的耳朵，听着简单的故事。晴空早已苍白，回声和记忆都消逝，秋霜把七月取代。爱丽丝的幻境依旧萦绕，我虽然看不到，但她任在天空中跳动。孩子们依旧靠在一起，热切地眼睛，期待的耳朵，为心爱的故事着迷。他们置身奇境里，岁月在梦幻中消逝，夕阳在梦幻中西下。沿着小溪漂流而下，荡漾在金色的余辉下，生活难道只是一场梦幻吗？", "loved": "喜欢(55)", "comment": "评论"}
+{"sentence": "公爵夫人在努力回忆起只想不说的寓意是什么，爱丽丝觉得这事儿没啥寓意，公爵夫人回答说：“凡事都有寓意，只要你肯去找。”", "loved": "喜欢(59)", "comment": "评论"}
+{"sentence": "生命沿着无尽的河，无止地漂流，在金色的光辉中，流连踯躅，人生究竟还会是什么——如果不是一场幻梦。", "loved": "喜欢(62)", "comment": "评论"}
+{"sentence": "是一种舞蹈，在辉煌日那一天，当白皇后再次戴上皇冠，那一天我会尽情跳着福特韦根舞", "loved": "喜欢(79)", "comment": "评论"}
+{"sentence": "爱丽丝，你不能总是为了别人而活着，决定权在你自己手里，因为当你走出来面对那些怪兽，你就得战斗！", "loved": "喜欢(88)", "comment": "评论"}
+{"sentence": "疯帽子：我是否发疯了？\r爱丽丝：恐怕是的，相当彻底。\r爱丽丝：但是告诉你一个秘密，最棒的人都这样。", "loved": "喜欢(92)", "comment": "评论(1)"}
+{"sentence": "眼泪永远没有办法帮上忙的。", "loved": "喜欢(118)", "comment": "评论(2)"}
+{"sentence": "我是夕阳与那屋檐汇聚的地方，你残留的涩伤。", "loved": "喜欢(122)", "comment": "评论"}
+{"sentence": "一\r“疯帽子，我喜欢你。”\r“为什么？”\r“因为乌鸦长得像写字桌。”\r“为什么乌鸦长得像写字桌？”\r“因为我喜欢你。”\r二\r”知道为什么乌鸦长得像写字桌吗？“\r”疯帽子，乌鸦怎么会长得像写字桌呢。“\r “我也不知道。”", "loved": "喜欢(145)", "comment": "评论"}
+{"sentence": "为什么乌鸦长得像写字台", "loved": "喜欢", "comment": "评论(2)"}
+{"sentence": "爱丽丝在法庭上和红心女王争论应该先裁决还是先审判的时候发觉自己恢复到了正常大小，于是就叫了起来：“你不过是一堆扑克牌而已！”", "loved": "喜欢(16)", "comment": "评论"}
+{"sentence": "“我怕再也见不到你”\r“在记忆的花园里，我们可以在梦里相见”\r“可梦都是虚假的”\r“谁又分的清真实和幻想呢”\r“再见疯帽子”\r“再见 爱丽丝”♥", "loved": "喜欢(16)", "comment": "评论(1)"}
+{"sentence": "哦，我以前从没听过这首诗，但是听上去整个一胡说八道", "loved": "喜欢(17)", "comment": "评论"}
+{"sentence": "“为什么乌鸦像写字台”\r“就像我喜欢你一样没有道理”", "loved": "喜欢(18)", "comment": "评论"}
+{"sentence": "“在我们这个地方，你必须不停地奔跑，才能留在原地。", "loved": "喜欢(18)", "comment": "评论(1)"}
+{"sentence": "最优秀的人都有点疯！", "loved": "喜欢(23)", "comment": "评论"}
+{"sentence": "Mad Hatter: There is a place. Like no place on Earth. A land full of wonder, mystery, and danger! Some say to survive it: You need to be as mad as a hatter.\r 疯帽匠：有一个地方，跟地面上的世界不一样。那里充满奇幻、神秘和危险！有人说，要在\r那里幸存下来，你就得像个帽匠一样疯狂。", "loved": "喜欢(27)", "comment": "评论"}
+{"sentence": "Why is a raven like a writing desk?", "loved": "喜欢(29)", "comment": "评论(1)"}
+{"sentence": "——爱丽丝：疯帽子，为什么乌鸦会像写字台呢？ \r——疯帽子：我也没有答案。 \r疯帽子：别了，爱丽丝。 \r小时候你来过这里，你对我说，你喜欢我，我问你为什么，你回答说，因为乌鸦长得像写字台。 \r如今，我反复说着这句，是想唤起你的记忆，可惜的是，你什么都忘了。 \r为什么乌鸦看起来会像写字台呢？没有原因的。 \r就像我爱你，没有什么理由。", "loved": "喜欢(32)", "comment": "评论"}
+{"sentence": "“有时早餐前我相信会发生六件不可能的事”\r“真是完美的练习 但此时此刻 你应该一心一意对付虚无巨龙”", "loved": "喜欢", "comment": "评论"}
+{"sentence": "在渡渡鸟严肃地提议休会以便立即采取更有效的补救措施来把大家弄干之后，小鹰说：“请说英国话！这些个词儿都挺长，我连一般都没听懂，而且我相信你自己也听不懂。”", "loved": "喜欢(7)", "comment": "评论"}
+{"sentence": "“这是不可能完成的任务”\r“只要你相信就可能”", "loved": "喜欢(9)", "comment": "评论"}
+{"sentence": "“你可以留下来”\r“好主意 多帮多疯狂的念头啊 可惜我不能 我还要去解决很多问题 还有很多事情要做 我会回来 悄悄地回来”\r“你会不记得我吧”\r“我当然会记得 怎么可能忘得掉呢 制帽匠 为什么乌鸦会像书桌呢”\r“我也不知道答案 别了 爱丽丝”", "loved": "喜欢(10)", "comment": "评论"}
+{"sentence": "尽管她知道只是重温一个旧梦，而一切都仍会返回现实：蒿草只是迎风作响，池水的波纹摆动了芦苇。茶杯的碰击声实际是羊颈上的铃铛声，王后的尖叫起源于牧童的吃喝。猪孩子的喷嚏声，鹰头狮的尖叫声和各种奇声怪音，原来只是农村中繁忙季节的各种喧闹声。而远处耕牛的低吟，在梦中变成素甲鱼的哀泣", "loved": "喜欢(11)", "comment": "评论(1)"}
+{"sentence": "“数一数那六个不可能的事爱丽丝 第一 能让你缩小的饮料 第二 能让你长高的蛋糕 第三 会说话的动物 第四 爱丽丝 会消失的猫 第五 有一个地方叫神奇之地 第六 我能杀掉虚无巨龙”", "loved": "喜欢(12)", "comment": "评论"}
+{"sentence": "One,There'sapotionthatcanmakeyoushrink\rTwo,Acakethatcanmakeyougrow\rThree,Aimalscantalk.\rFour,Catscandisappear.\rFive,ThereisaplacecalledWonderland\rSix,IcanslaytheJabberwocky.", "loved": "喜欢(13)", "comment": "评论"}
+{"sentence": "爱丽丝：这些都是我想象出来的。\r 疯帽匠：你是说我并不存在？\r 爱丽丝：恐怕是的。你只是我想象出来的一个人，我总是会梦到疯疯癫癫的人。\r 疯帽匠：是啊是啊！但要想象出我的人自己也必须是疯疯癫癫的吧！\r 爱丽丝：那我一定是的！我醒来后会想你的！", "loved": "喜欢(13)", "comment": "评论"}
+{"sentence": "疯帽匠：你跟以前不一样了。你那时更像你。你不再是“你”了！\r 爱丽丝：不是“我”？\r 疯帽匠：[手指爱丽丝的心脏]这里，有东西不见了。", "loved": "喜欢(14)", "comment": "评论"}
+{"sentence": "一直以为时间是小偷，但他是先给予，再拿走，每一分钟，每一秒钟都是礼物。", "loved": "喜欢(15)", "comment": "评论"}
